@@ -2,6 +2,7 @@
 ## Baoyan Deng (s2402728); Yani Shi (s2308441); Qiming Xiong (s2442309)
 
 ## Github repository: 
+## https://github.com/Signayc/Statistical_programming_practical4.git
 
 ## Work contribution:
 ## Baoyan Deng (33%): Write the approximate framework of the newt function
